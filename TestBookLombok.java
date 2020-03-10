@@ -22,6 +22,3 @@ public class TestBookLombok {
         softly.assertAll();
     }
 }
-
-
-
