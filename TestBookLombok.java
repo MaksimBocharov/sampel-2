@@ -20,7 +20,6 @@ public class TestBookLombok {
         softly.assertThat(newBook.getYear()).isEqualTo(1906);
         softly.assertThat(newBook.getISBN()).isEqualTo("Eng-Something - 1234567890");
         softly.assertAll();
-
     }
 }
 
